@@ -1,7 +1,5 @@
-import numpy as np
+a = 10
+b = 5
 
-numbers = np.array([1, 2, 3, 4])
-
-print("Original:", numbers)
-print("Square:", numbers ** 2)
-print("Sum:", np.sum(numbers))
+print("Addition:", a + b)
+print("Multiplication:", a * b)
